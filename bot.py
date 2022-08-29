@@ -15,7 +15,7 @@ cursor = conn.cursor()
 
 
 # API токен
-API_TOKEN = "5540328842:AAEUm8EnrvQ6CIa4HwPxjC9HyKVad4KSc88"
+API_TOKEN = ""
 
 # Логи
 logging.basicConfig(level=logging.INFO)
